@@ -2,7 +2,10 @@
 Github Gang
 # integrantes
 David Roa
+
 Daniel Osorio
+
 Fabio Triana
+
 # Link video
 https://youtu.be/6vVDQybMypA
